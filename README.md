@@ -1,1 +1,3 @@
-# stepik
+# Stepik 👣
+
+Python automation project
